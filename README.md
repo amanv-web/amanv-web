@@ -39,6 +39,9 @@
 ---
 
 ## 📈 GitHub Stats
+## ⭐ GitHub Stars
+
+![GitHub Stars](https://img.shields.io/github/stars/amanv-web?style=social)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=im_amanv&theme=tokyonight&hide_border=false&show_icons=true" height="160px"/>
