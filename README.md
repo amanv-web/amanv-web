@@ -2,8 +2,9 @@
 
 💻 **Full Stack Web Developer**  
 🚀 Passionate about crafting clean & dynamic web experiences  
+🛠️ Working as a freelancer, turning ideas into clean, functional code.
 🌱 Currently exploring the depths of the **MERN Stack**  
-🛠️ Freelancing & turning ideas into code  
+ 
 
 ---
 
