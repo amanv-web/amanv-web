@@ -38,21 +38,19 @@
 
 ---
 
-## 📈 GitHub Stats
 ## ⭐ GitHub Stars
 
-![GitHub Stars](https://img.shields.io/github/stars/amanv-web?style=social)
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=im_amanv&theme=tokyonight&hide_border=false&show_icons=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=im_amanv&theme=tokyonight&hide_border=false" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amanv-web&theme=tokyonight&hide_border=false&show_icons=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanv-web&theme=tokyonight&hide_border=false" height="160px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im_amanv&layout=compact&theme=tokyonight&hide_border=false" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanv-web&layout=compact&theme=tokyonight&hide_border=false" height="160px"/>
 </p>
 
----
 
 ## 💡 Dev Quote of the Day
 
